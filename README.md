@@ -4,6 +4,6 @@
 
 
  tecnologia
- reconhecimento de voz
+ reconhecimento de voz: (google)
  sinteae de voz
  alguma IA
